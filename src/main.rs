@@ -1,4 +1,5 @@
 mod player;
+mod macros;
 
 use bevy::prelude::*;
 use player::PlayerPlugin;
